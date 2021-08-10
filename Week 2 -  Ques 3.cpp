@@ -23,4 +23,3 @@ int main()
     cout<< countPairsWithDiffK(arr, len, x);
     return 0;
 }	
-
