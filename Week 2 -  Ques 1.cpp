@@ -29,4 +29,3 @@ int main()
 	 cout  << "present "<<c<< "times"<<"\n";}
     return 0;
 }
-
